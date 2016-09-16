@@ -21,4 +21,7 @@ https://github.com/huangz1990/redis  《Redis Command Reference》全文的中�
 #video
 http://www.icoolxue.com/album/show/84/ 国语
 
+#conference
+http://redisconference.com/
+
 
