@@ -1,0 +1,4 @@
+- https://stackoverflow.com/questions/26406303/redis-key-expire-notification-with-jedis
+- https://stackoverflow.com/questions/41229591/redis-key-expire-notification-with-jedis-not-working
+- https://intotheprogramming.blogspot.jp/2016/03/redis-keyspace-notifications-java.html
+- https://stackoverflow.com/questions/11810020/how-to-handle-session-expire-basing-redis/11815594
