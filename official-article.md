@@ -1,0 +1,5 @@
+- https://redis.io/topics/data-types-intro
+- https://redis.io/commands/expire
+- https://redis.io/topics/transactions
+- https://redis.io/topics/distlock
+- https://redis.io/topics/notifications
