@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/39738744/redis-locking-for-a-key
