@@ -1,1 +1,6 @@
 - https://stackoverflow.com/questions/39738744/redis-locking-for-a-key
+- https://stackoverflow.com/questions/14982260/acquiring-locks-when-updating-a-redis-key-value
+- https://engineering.gosquared.com/distributed-locks-using-redis
+- https://stackoverflow.com/questions/39738744/redis-locking-for-a-key
+- https://groups.google.com/forum/#!topic/redis-db/cyoZqunQ3M4
+- https://redis.io/commands/setnx
