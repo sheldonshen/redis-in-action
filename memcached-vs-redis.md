@@ -1,0 +1,5 @@
+- http://www.infoworld.com/article/3063161/application-development/why-redis-beats-memcached-for-caching.html
+- https://stackoverflow.com/questions/10558465/memcached-vs-redis
+- https://db-engines.com/en/system/Memcached%3BRedis
+- http://antirez.com/news/94
+- https://www.quora.com/Which-one-should-I-use-for-a-web-based-application-Redis-or-Memcached-Does-Memchached-have-the-feature-that-allows-for-running-Python-against-it-If-not-is-there-any-reason-why-I-should-choose-one-over-the-other
